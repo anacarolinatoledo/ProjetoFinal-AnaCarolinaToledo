@@ -1,0 +1,105 @@
+body {
+  background-color: #92a9bd;
+  height: 100%;
+  margin: 0%;
+  color: black;
+  font-family: "Noto Sans", sans-serif;
+}
+h1 {
+  font-family: "Roboto Slab", serif;
+}
+hr {
+  border-style: dotted none none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: black;
+  width: 5%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+a {
+  color: black;
+  text-decoration: underline;
+}
+li {
+  text-align: center;
+  list-style: none;
+}
+nav {
+  text-align: right;
+  margin-right: 65px;
+}
+.bg {
+  background-image: url("https://img.freepik.com/vetores-gratis/protetor-de-tela-de-textura-elegante-branco_23-2148421855.jpg?size=626&ext=jpg");
+  background-attachment: scroll;
+  background-size: cover;
+  background-position-y: 230px;
+  background-repeat: no-repeat;
+}
+.table {
+  margin: auto;
+}
+.border {
+  border-radius: 100%;
+}
+.div {
+  padding-top: 15px;
+}
+.bg-pink {
+  background-color: #feece9;
+  margin: 0px 0px 0px 0px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #454545;
+  border-radius: 35px;
+  margin-right: 60px;
+  margin-top: 0px;
+  margin-left: 60px;
+  margin-bottom: 30px;
+  text-align: center;
+  color: #92a9bd;
+}
+.txtagn {
+  text-align: center;
+}
+#idiomas {
+  margin-top: 30px;
+}
+.bt {
+  border: none;
+  padding: 10px;
+  background-color: #92a9bd;
+  color: black;
+  border-radius: 10px;
+}
+.container {
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.card {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 15px;
+  border: solid;
+  border-color: #454545;
+  border-width: 2px;
+  box-shadow: 10px 10px 5px 10px gray;
+  border-radius: 15px;
+  background-color: #92a9bd;
+}
+.interno {
+  background-color: white;
+  border-radius: 15px;
+  padding: 15px;
+  align-items: center;
+}
+.interno2 {
+  background-color: white;
+  border-radius: 15px;
+  align-items: center;
+  padding: 15px;
+}
